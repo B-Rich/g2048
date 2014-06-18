@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------
+//  Project       g2048.cpp
+//  FILE:         g2048.rc
+//  AUTHOR:       Donna L. Polehn
+//
+//  OVERVIEW
+//  --------
+//  Special resources defined here.
+//
+// WAVE File Resources:
+//
+// RESNAME       RESTYPE      FILENAME
+//---------------------------------------------------------------------------
+   TICKSOUND      Wave        "Tick.Wav"
+   SHUFFLESOUND   Wave        "Shuffle.Wav"
+   SOLVESOUND     Wave        "Solve.Wav"
+   TADASOUND      Wave        "TaDa.Wav"
+   LOSER          Wave        "Loser.Wav"
+//
+//---------------------------------------------------------------------------
+
